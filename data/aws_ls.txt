@@ -1,0 +1,7 @@
+2023-09-06 13:03:55    1452222 baltrad/daily/bejab/2018/bejab_vpts_20181026.csv
+2023-09-06 13:04:13    1324124 baltrad/daily/bejab/2018/bejab_vpts_20181027.csv
+2023-09-06 13:04:31    1571060 baltrad/daily/bejab/2018/bejab_vpts_20181028.csv
+2023-09-06 13:04:49    1555603 baltrad/daily/bejab/2018/bejab_vpts_20181029.csv
+2023-09-06 13:05:07    1138093 baltrad/daily/bejab/2018/bejab_vpts_20181030.csv
+2023-09-06 13:05:24    1554778 baltrad/daily/bejab/2018/bejab_vpts_20181031.csv
+2023-09-06 13:05:41    1566588 baltrad/daily/bejab/2018/bejab_vpts_20181101.csv
